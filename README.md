@@ -26,3 +26,7 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+
+2. check this link: https://stackoverflow.com/questions/22607661/no-cached-version-available-for-offline-mode
+  [https://stackoverflow.com/a/61012811/6207404]
+
